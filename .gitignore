@@ -1,0 +1,25 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.csproj.user
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Don't ignore the default appsettings, but ignore the local development one
+NewsHub/appsettings.Development.json
+
+# Log files
+*.log
